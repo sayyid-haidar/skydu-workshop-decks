@@ -238,17 +238,17 @@
 	margin-bottom: 15px;
 }
 
-#social-media {
+#find-me-in {
 	background: #eee;
 	padding-top: 80px;
 	padding-bottom: 80px;
 }
 
-#social-media .head {
+#find-me-in .head {
 	text-align: center;
 }
 
-#social-media .content {
+#find-me-in .content {
 	display: flex;
 	margin-top: 30px;
 	justify-content: center;
@@ -256,7 +256,7 @@
 	flex-wrap: wrap;
 }
 
-#social-media .content a {
+#find-me-in .content a {
 	flex: 1;
 	background: white;
 	margin: 10px;
